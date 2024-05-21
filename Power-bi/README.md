@@ -1,4 +1,4 @@
 DASHBOARD-POWER BI
 SALES PERFORMANCE ANALYSIS
 
-![alt text](image-1.png)
+![/workspaces/Dashboard/Power-bi/image.png](image.png)
