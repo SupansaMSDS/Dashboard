@@ -1,8 +1,8 @@
 DASHBOARD
 SupplyChain Analysis
-![alt text](image.png)
+![Tableau/image.png](pic/image.png)
 
-/workspaces/Dashboard/Tableau/pic/image-1.png
+![/workspaces/Dashboard/Tableau/pic/image-1.png](pic/image-1.png)
 
 
 /workspaces/DashboardTableau/pic/image-2.png
