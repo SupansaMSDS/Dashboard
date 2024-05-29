@@ -4,11 +4,17 @@ SupplyChain Analysis
 
 ![/workspaces/Dashboard/Tableau/pic/image-1.png](pic/image-1.png)
 
+Problem Statement
 
 ![/workspaces/Dashboard/Tableau/pic/image-2.png](pic/image-2.png)
 
+
+Data Preparation
+
 ![/workspaces/Dashboard/Tableau/pic/image-3.png](pic/image-3.png)
 
+
+Order/ Order Item Quantity ในแต่ละ Delivery Status
 
 ![/workspaces/Dashboard/Tableau/pic/image-4.png](pic/image-4.png)
 
