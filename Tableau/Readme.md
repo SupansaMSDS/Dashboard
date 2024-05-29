@@ -67,22 +67,23 @@ Order/ Order Item Quantity ในแต่ละ Delivery Status
 ![/workspaces/Dashboard/Tableau/pic/image-13.png](pic/image-13.png)
 
 
-เปรียบเทียบจำนวนสินค้าที่มียอดสั่งซื้อสูง 10 อันดับแรกแยกตาม Category
+Shipping Modes Performance
 
 ![/workspaces/Dashboard/Tableau/pic/image-14.png](pic/image-14.png)
 
 
-Shipping Modes Performance
+
+Delivery status by shipping mode
 
 ![/workspaces/Dashboard/Tableau/pic/image-15.png](pic/image-15.png)
 
 
-Delivery status by shipping mode
+เปรียบเทียบจำนวนคำสั่งซื้อ แยกตาม Department และShipping mode
 
 ![/workspaces/Dashboard/Tableau/pic/image-16.png](pic/image-16.png)
 
 
-
+Conclusions
 
 ![/workspaces/Dashboard/Tableau/pic/image-17.png](pic/image-17.png)
 
